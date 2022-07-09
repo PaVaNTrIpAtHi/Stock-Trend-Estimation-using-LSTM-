@@ -51,4 +51,6 @@ Issues faced/ Points to note:
 3.	Make sure you have the appropriate versions of tensorflow and keras.
 4.	Enter the correct stock ticker in the input screen when asked.
 Picture credits: https://miro.medium.com/max/1400/1*7cMfenu76BZCzdKWCfBABA.png
+
+
 This code was derived from a video from geek for geeks, link to the video https://www.youtube.com/watch?v=s3CnE2tqQdo
