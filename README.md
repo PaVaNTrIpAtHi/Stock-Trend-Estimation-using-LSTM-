@@ -1,0 +1,2 @@
+# Stock-Trend-Estimation-using-LSTM-
+Stock trend prediction is a great application of machine learning and when done with good and appropriate dataset can help in unique ways. Here we deployed the application using Streamlit and can select any stock we want and get the dataset from yahoo in real time and use the LSTM model we trained and we get a list of results like the 100 day MA, 200 day MA, and future trend of the stock.
